@@ -1,0 +1,3 @@
+[submodule "alx_travel_app"]
+	path = alx_travel_app
+	url = git@github.com:hallumy/alx_travel_app_0x00.git
